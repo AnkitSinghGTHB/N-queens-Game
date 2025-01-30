@@ -99,6 +99,11 @@ public:
             board[x][y] = 'Q';
             queens.push_back({x, y});
             printBoard();
+
+            if (queens.size() == n) {
+            cout << "Congratulations! You have successfully placed all " << n << " queens without conflict.\n";
+            break;
+        }
         }
     }
 };
