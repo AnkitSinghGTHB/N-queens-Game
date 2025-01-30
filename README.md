@@ -40,13 +40,13 @@ This is a **C++ console-based game** based on the **N-Queens problem**, where th
 ```
 Enter board size (N): 5
 Enter position: 2 3
-   0   1   2   3   4
-   -----------------
- 0 | .   .   .   .   .
- 1 | .   .   .   .   .
- 2 | .   .   .   Q   .
- 3 | .   .   .   .   .
- 4 | .   .   .   .   .
+     0  1  2  3  4
+   ---------------
+ 0|  .  .  .  .  .
+ 1|  .  .  .  .  .
+ 2|  .  .  .  Q  .
+ 3|  .  .  .  .  .
+ 4|  .  .  .  .  .
 ```
 
 ## 🏆 Contributions
